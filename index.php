@@ -167,10 +167,8 @@ date_default_timezone_set('GMT');
 		    </div><!-- end footer -->
     
   </div><!-- end outerWrapper -->
-
-	<!-- HTML or php rendering here -->
 	<?php
-		// can contain most php code - except header()function	ob_start();
+	
 		
 	?>
 
