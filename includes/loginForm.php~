@@ -1,0 +1,15 @@
+<?php
+<table>
+<tr>
+<td><p style="color: red; font-weight: bolder;">*Please login to continue</p></td>
+</tr>
+			<form name="postLoginHid" action="index.php" method="post">
+			
+					<P>User: 
+					<INPUT TYPE=text NAME=username value="" SIZE=12 MAXLENGTH=16></P>
+					<P>Password: 
+					<INPUT TYPE=password NAME=password value="" SIZE=12 MAXLENGTH=16></P>
+					<input type="submit"  value="Login" />
+				
+		</form>
+?>
